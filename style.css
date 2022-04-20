@@ -1,0 +1,269 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: 0;
+}
+
+body {
+    background-color: #424968;
+}
+
+
+/* Barra de Navegação! */
+
+header, .navbar {
+    background-color: #11131c;
+}
+
+#logo {
+    width: 75px;
+}
+
+#nav-container {
+    padding-top: 0;
+    padding-bottom: 0;
+    
+    
+    
+}
+
+
+
+#lancamentos-menu {
+    
+    color: blue;
+    
+}
+
+#lancamentos-menu:hover {
+    color: blue;
+    transition: all .4s;
+}
+
+#destaques-menu:hover {
+    color: blue;
+    transition: all .4s;
+}
+
+#avaliacoes-menu:hover {
+    color: blue;
+    transition: all .4s;
+}
+
+#entrevistas-menu:hover {
+    color: blue;
+    transition: all .4s;
+}
+
+#novidades-menu:hover {
+    color: blue;
+    transition: all .4s;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 1rem .8rem;
+}
+
+/* Slider*/
+
+.titulo {
+
+
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+#caracteres {
+    color: white;
+}
+
+
+#titulo{
+    
+    color: white;
+    font-family: 'Roboto', sans-serif;
+  
+
+}
+
+#paragrafo {
+    color: white;
+}
+
+#container-fluid1 {
+    background-color: #222636;
+    padding-bottom: 30px;
+}
+
+#myCarousel {
+    margin-top: 20px;
+}
+
+
+#container {
+    background-color: #424968;
+    margin-top: 70px;
+
+}
+
+#container h1, h2 {
+    color: white;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+
+}
+
+#container h3 {
+    
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+
+#banners img {
+  border-radius: 10px;
+}
+
+
+#containerava img {
+    border-radius: 100px;
+}
+
+
+#containerava h3 {
+     
+    font-weight: bold;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+
+#containerava p {
+    text-align: center;
+    margin-top: 0;
+}
+
+
+
+#containerfluid2 h1 {
+    font-weight: bold;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 70px;
+}
+
+#containerfinal {
+    margin-top: 70px;
+}
+
+
+#containerfluid2 {
+    background-color: #222636;
+}
+
+#containerfilme {
+    background-color: #222636;
+}
+
+
+.btn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+#container {
+    background-color:#424968;
+}
+
+#container5 {
+    background-color:#424968;
+}
+
+#container2 h1 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+#containernovi {
+    display: table;
+}
+
+
+#containerfinal {
+    color: #f1f1f193;
+
+   
+
+}
+
+#containernovi p {
+    color: white;
+    text-align: center;
+   
+
+   
+
+}
+
+.texto {
+  align-items: center;
+  
+}
+
+.imagem {
+   align-items: center;
+   padding-right: 10px;
+}
+
+
+p {
+    color: white;
+
+
+}
+
+#containera h3, p {
+   
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+#containerfinal h1 {
+    font-weight: bold;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+#containerfinal2 h3, h1 {
+   
+    font-weight: bold;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+#containerfinal2 h3, h1 {
+   
+  
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand
+{
+    margin: 0px;
+
+}
+
